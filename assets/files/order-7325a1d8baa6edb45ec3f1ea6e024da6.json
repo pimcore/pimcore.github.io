@@ -1,0 +1,48 @@
+{
+    "ordernumber": "some-order-number",
+    "orderDate": "2020-05-02 12:50",
+    "totalPrice": "3297.80",
+    "totalNetPrice": "2818.63",
+    "currency": "EUR",
+    "shippingCost": "5.90",
+    "shippingNetCost": "5.04",
+    "billing": {
+        "firstname": "Betty",
+        "lastname": "Rubble",
+        "company": "",
+        "street": "Rudolstädter Straße 21",
+        "zip": "63741",
+        "city": "Aschaffenburg",
+        "country": "de",
+        "email": "betty.rubble@modern.age"
+    },
+    "delivery": {
+        "firstname": "Betty",
+        "lastname": "Rubble",
+        "company": "",
+        "street": "Rudolstädter Straße 21",
+        "zip": "63741",
+        "city": "Aschaffenburg",
+        "country": "de"
+    },
+    "items": [
+        {
+            "productNumber": "2342342",
+            "productName": "Austin-Healey 3000 Mk II",
+            "amount": 1,
+            "netPrice": "2646.11",
+            "price": "3095.95"
+        },
+        {
+            "productNumber": "9942342",
+            "productName": "Austin-Healey 3000 Mk II Head lamps ",
+            "amount": 1,
+            "netPrice": "167.47",
+            "price": "195.95"
+        }
+    ],
+    "payment" : {
+        "payment_method": "some-payment",
+        "payment_reference": "123dedf213"
+    }
+}
