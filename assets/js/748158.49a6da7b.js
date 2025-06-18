@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpimcore_documentation=self.webpackChunkpimcore_documentation||[]).push([[748158],{748158:(e,c,a)=>{a.r(c),a.d(c,{DocSearchModal:()=>o.a1});var o=a(355600)}}]);
